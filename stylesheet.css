@@ -1,0 +1,51 @@
+body{
+	background: rgb(104,187,245);
+	font-family: arial;
+}
+
+#header{
+	text-align: center;
+}
+
+#left-box{
+	background: rgb(9,30,45);
+	color: #fff;
+	width: 25%;
+	//padding: 10px;
+	float:left;
+}
+
+#left-box p{
+	text-align: center;
+}
+
+ul{
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+li{
+	list-style-type: none;
+}
+
+.marge{
+	margin: 7px 0 10px 0;
+}
+
+#right-box{
+	color: #000;
+	margin-left: 25%;
+}
+
+#experiences-box, #studies-box {
+	background: rgb(255,255,255);
+	padding: 20px;
+}
+
+.experience h2, .study h2{
+	font-size: 18px;
+}
+
+#footer{
+	padding: 20px;
+}
